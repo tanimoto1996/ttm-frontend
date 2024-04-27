@@ -43,3 +43,7 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+# ttm-frontend
+今日のタスク管理に特化したアプリのフロント
+
